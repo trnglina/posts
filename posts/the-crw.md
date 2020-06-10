@@ -37,6 +37,4 @@ The next two are for the recruitment of writers:
   <figcaption>Square poster for digital distribution.</figcaption>
 </figure>
 
-{{< figure  title="Tabloid-sized poster for physical printing"  >}}
-
 The above images have been palette-reduced to reduce file size for web delivery. For higher-quality copies, please contact me at [contact@trnglina.org](mailto:contact@trnglina.org).
