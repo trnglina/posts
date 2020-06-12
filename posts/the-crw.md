@@ -1,6 +1,6 @@
 ---
-title: "The CrW"
 date: 2019-12-09
+title: "The CrW"
 draft: false
 page: false
 thumbnail: /images/banners/the-crw.png

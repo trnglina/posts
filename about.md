@@ -1,7 +1,10 @@
 ---
+date: ~
 title: "About me"
 draft: false
 page: true
+thumbnail: ~
+tags: ~
 ---
 
 Hi! Nice to meet you. I'm not a particularly interesting or accomplished person, but the navigation bar looked a little barren without an 'About' page, so here we go.

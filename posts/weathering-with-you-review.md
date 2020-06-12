@@ -1,6 +1,6 @@
 ---
-title: "Review: Weathering with you"
 date: 2020-01-16
+title: "Review: Weathering with you"
 draft: false
 page: false
 thumbnail: /images/banners/tenki.jpg
