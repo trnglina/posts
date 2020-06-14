@@ -1,9 +1,9 @@
 ---
 date: 2019-12-09
-title: "The CrW"
+title: 'The CrW'
 draft: false
 page: false
-thumbnail: /images/banners/the-crw.png
+thumbnail: banners/the-crw.png
 tags:
   - Design
 ---
@@ -23,7 +23,6 @@ The first two are for the recruitment of editors for the project:
   <img src="/images/posts/the-crw/call-for-editors-fs8.png" alt="Tabloid-sized poster displaying the group's logo, location, contact and social media information, and the words 'Call for editors by the Creative writing club', alongside the deadline for applicants. The application deadline is December 15th, and applications should be made to thecrwsubmissions@gmail.com. The group meets on Thursdays from 4:00 to 6:00 P.M. weekly, in the Heritage Lounge, located within Athabasca Hall. The group's website is at thecrwuofa.wordpress.com, and can be found at @TheCrWUofA on Facebook, Twitter, and Instagram.">
   <figcaption>Tabloid-sized poster for physical printing.</figcaption> 
 </figure>
-
 
 The next two are for the recruitment of writers:
 

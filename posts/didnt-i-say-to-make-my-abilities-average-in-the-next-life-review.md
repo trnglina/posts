@@ -1,9 +1,9 @@
 ---
 date: 2020-01-05
-title: "Review: Didn’t I say to make my abilities average in the next life?!"
+title: 'Review: Didn’t I say to make my abilities average in the next life?!'
 draft: false
 page: false
-thumbnail: /images/banners/noukin.png
+thumbnail: banners/noukin.png
 tags:
   - Anime
 ---
