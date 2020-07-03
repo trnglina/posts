@@ -2,7 +2,6 @@
 date: ~
 title: 'About me'
 draft: false
-page: true
 thumbnail: ~
 tags: ~
 ---

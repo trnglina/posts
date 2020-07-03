@@ -2,7 +2,6 @@
 date: 2019-12-22
 title: 'The things I want'
 draft: false
-page: false
 thumbnail: ~
 tags:
   - Non-fiction

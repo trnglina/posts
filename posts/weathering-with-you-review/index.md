@@ -2,7 +2,6 @@
 date: 2020-01-16
 title: 'Review: Weathering with you'
 draft: false
-page: false
 thumbnail: banner.jpg
 tags:
   - Anime
