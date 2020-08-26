@@ -12,24 +12,28 @@ tags:
 
 The following are sets of promotional posters made for an anthology project by the group.
 
-The first two are for the recruitment of editors for the project:
+The first two are designed for the recruitment of editors for the project:
 
 <figure>
   <img src="call-for-editors-square-fs8.png" alt="Square poster displaying the group's logo and the words 'Call for editors by the Creative writing club'.">
   <figcaption>Square poster for digital distribution.</figcaption>
 </figure>
 
+The editor recruitment graphics were mostly rendered in Maxon Cinema4D, and lower-half text/effects were added in Adobe Photoshop.
+
 <figure>
   <img src="call-for-editors-fs8.png" alt="Tabloid-sized poster displaying the group's logo, location, contact and social media information, and the words 'Call for editors by the Creative writing club', alongside the deadline for applicants. The application deadline is December 15th, and applications should be made to thecrwsubmissions@gmail.com. The group meets on Thursdays from 4:00 to 6:00 P.M. weekly, in the Heritage Lounge, located within Athabasca Hall. The group's website is at thecrwuofa.wordpress.com, and can be found at @TheCrWUofA on Facebook, Twitter, and Instagram.">
   <figcaption>Tabloid-sized poster for physical printing.</figcaption> 
 </figure>
 
-The next two are for the recruitment of writers:
+The next two are designed for the recruitment of writers/authors for the project:
 
 <figure>
   <img src="call-for-writers-square-fs8.png" alt="Square poster displaying the group's logo and the words 'Call for writers by the Creative writing club'.">
   <figcaption>Square poster for digital distribution.</figcaption>
 </figure>
+
+The writer recruitment background graphics were rendered in Maxon Cinema4D. The headline "Call for writers by the creative writing club" was laid-out in Adobe Illustrator, and lower-half text was added in Adobe Photoshop.
 
 <figure>
   <img src="call-for-writers-fs8.png" alt="Tabloid-sized poster displaying the group's logo, location, contact and social media information, and the words 'Call for writers by the Creative writing club', alongside the deadline for submissions. The submission deadline is February 28th, and submissions should be made to thecrwsubmissions@gmail.com. The group meets on Thursdays from 4:00 to 6:00 P.M. weekly, in the Heritage Lounge, located within Athabasca Hall. The group's website is at thecrwuofa.wordpress.com, and can be found at @TheCrWUofA on Facebook, Twitter, and Instagram.">
