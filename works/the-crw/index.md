@@ -39,7 +39,7 @@ The background graphics are rendered in Maxon Cinema4D. The headline "Call for w
 
 <figure>
   <img src="call-for-writers-fs8.png" alt="Tabloid-sized poster displaying the group's logo, location, contact and social media information, and the words 'Call for writers by the Creative Writing Club', alongside the deadline for submissions. The submission deadline is February 28th, and submissions should be made to thecrwsubmissions@gmail.com. The group meets on Thursdays from 4:00 to 6:00 P.M. weekly, in the Heritage Lounge, located within Athabasca Hall. The group's website is at thecrwuofa.wordpress.com, and can be found at @TheCrWUofA on Facebook, Twitter, and Instagram.">
-  <figcaption>Square poster for digital distribution.</figcaption>
+  <figcaption>Tabloid-sized poster for physical printing.</figcaption>
 </figure>
 
 The above images have been palette-reduced to reduce file size for web delivery. For higher-quality copies, please contact me at [contact@trnglina.org](mailto:contact@trnglina.org).
