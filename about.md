@@ -1,6 +1,6 @@
 ---
 date: ~
-title: 'About me'
+title: 'About Me'
 draft: false
 thumbnail: ~
 tags: ~

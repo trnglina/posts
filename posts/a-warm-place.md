@@ -1,6 +1,6 @@
 ---
 date: 2019-12-30
-title: 'A warm place'
+title: 'A Warm Place'
 draft: false
 thumbnail: ~
 tags:

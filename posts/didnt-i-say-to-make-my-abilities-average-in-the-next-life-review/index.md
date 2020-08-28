@@ -1,6 +1,6 @@
 ---
 date: 2020-01-05
-title: 'Review: Didn’t I say to make my abilities average in the next life?!'
+title: 'Review: Didn’t I Say to Make My Abilities Average in the Next Life?!'
 draft: false
 thumbnail: banner.png
 tags:
@@ -9,7 +9,7 @@ tags:
 
 _This review may contain minor spoilers._
 
-The thing with Noukin is that it doesn't have a serious bone in its body. Not a single one. No matter what serious topic comes up, it'll top it off with some comedic relief and leave you feeling either uncomfortably unsatisfied, or, if you quickly came to like the characters like I did, with mixed feelings of genuine relief.
+The thing with Noukin (the shortened Japanese name of this show that's a lot easier to write) is that it doesn't have a serious bone in its body. Not a single one. No matter what serious topic comes up, it'll top it off with some comedic relief and leave you feeling either uncomfortably unsatisfied, or, if you quickly came to like the characters like I did, with mixed feelings of genuine relief.
 
 <figure>
   <img src="1.png" alt="A close-up of Mile, the show's purple-haired protagonist, looking relieved.">
@@ -25,4 +25,4 @@ Ultimately, whether this technique works for you depends on how willing you are 
 
 Noukin is a comedy through and through---and if you don't find the first couple of episodes funny, there's nothing more this show can offer you. If you do, however, it's an enjoyable ride. (If you're familiar with anime, you might recognise the director Oota Masahiko; this show is pretty similar to his other comedies.) The characters are likeable (if generally shallow and clichéd), its visuals are pretty (if not exactly beautiful), and it has most of the typical isekai trappings.
 
-_Didn’t I say to make my abilities average in the next life?! is known as Watashi, nouryoku wa heikinchi de tte itta yo ne! in Japanese, and is often shorted to Noukin._
+_Didn’t I Say to Make My Abilities Average in the Next Life?! is known as Watashi, nouryoku wa heikinchi de tte itta yo ne! in Japanese, and is often shorted to Noukin._
