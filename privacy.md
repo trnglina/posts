@@ -6,4 +6,8 @@ thumbnail: ~
 tags: ~
 ---
 
-This site does not track you. There is no front-end code (such as analytics, etc.) to track you, and nginx (the software delivering this page to you) is configured to store no logs.
+This site **does not** track you.
+
+There is **no** front-end tracking code in the form of analytics, advertisements, etc.
+
+There are **no** access or debug logs stored by the server software.
