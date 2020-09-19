@@ -1,6 +1,6 @@
 ---
 date: ~
-title: 'Contact Me'
+title: 'Contact'
 draft: false
 thumbnail: ~
 tags: ~
