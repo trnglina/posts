@@ -6,7 +6,7 @@ thumbnail: ~
 tags: ~
 ---
 
-Well, nice to meet you! My name is Teng, but I go by _trnglina_ online. I'm an undergraduate computing science student and amateur graphics/web designer. This is my little corner of the internet,, where you'll find stuff I've written, and stuff I've made.
+Well, nice to meet you! My name is Teng, but I go by _trnglina_ online. I'm an undergraduate computing science student and amateur graphics/web designer. This is my little corner of the internet, where you'll find stuff I've written, and stuff I've made.
 
 One of my favourite (and most time consuming) hobbies is learning Japanese. That's why you'll find lots of references to Japanese popular culture wherever I've gotten my hands. I read a lot of manga, watch quite a bit of [anime](/tags/anime), and occasionally play a JRPG or two. Sometimes I'll write about these here, so please approach with caution.
 
