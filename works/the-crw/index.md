@@ -16,7 +16,7 @@ The following are promotional posters made to announce and publicise guest speak
 
 <figure>
   <img src="jason-lee-norman.jpg" alt="Poster with a photograph of the guest speaker, Jason Lee Norman, on a blue background. The name of the speaker, and the title of the event, 'Experiences in Writing and Anthology Running', are overlaid on top. The event started at 4:45 P.M., on Thursday January 16th, 2020, in the Heritage Lounge, located within Athabasca Hall. The group's website is at thecrwuofa.wordpress.com, and can be found at @TheCrWUofA on Facebook, Twitter, and Instagram.">
-  <figcaption>Jason Lee Normal spoke on January 16th, 2020, about his experiences in writing and anthology running.</figcaption>
+  <figcaption>Jason Lee Norman spoke on January 16th, 2020, about his experiences in writing and anthology running.</figcaption>
 </figure>
 
 These posters were created shortly before the events themselves, during the earlier months of 2020. They're designed with similar layouts, and with consistent design elements between them,
