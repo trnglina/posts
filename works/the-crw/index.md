@@ -15,7 +15,7 @@ The CrW is the University of Alberta's Creative Writing Club—a social group fo
 The following are promotional posters made to announce and publicise guest speakers invited by the club.
 
 <figure>
-  <img src="jason-lee-normal.jpg" alt="Poster with a photograph of the guest speaker, Jason Lee Norman, on a blue background. The name of the speaker, and the title of the event, 'Experiences in Writing and Anthology Running', are overlaid on top. The event started at 4:45 P.M., on Thursday January 16th, 2020, in the Heritage Lounge, located within Athabasca Hall. The group's website is at thecrwuofa.wordpress.com, and can be found at @TheCrWUofA on Facebook, Twitter, and Instagram.">
+  <img src="jason-lee-norman.jpg" alt="Poster with a photograph of the guest speaker, Jason Lee Norman, on a blue background. The name of the speaker, and the title of the event, 'Experiences in Writing and Anthology Running', are overlaid on top. The event started at 4:45 P.M., on Thursday January 16th, 2020, in the Heritage Lounge, located within Athabasca Hall. The group's website is at thecrwuofa.wordpress.com, and can be found at @TheCrWUofA on Facebook, Twitter, and Instagram.">
   <figcaption>Jason Lee Normal spoke on January 16th, 2020, about his experiences in writing and anthology running.</figcaption>
 </figure>
 
