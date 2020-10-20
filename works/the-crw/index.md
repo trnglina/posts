@@ -19,7 +19,7 @@ The following are promotional posters made to announce and publicise guest speak
   <figcaption>Jason Lee Norman spoke on January 16th, 2020, about his experiences in writing and anthology running.</figcaption>
 </figure>
 
-These posters were created shortly before the events themselves, during the earlier months of 2020. They're designed with similar layouts, and with consistent design elements between them,
+These posters were created shortly before the events themselves, during the earlier months of 2020. They're designed with similar layouts, and with consistent design elements between them. Their compact layouts and the emphasis on text reflect their intended use: as visual parts of promotional social media posts.
 
 <figure>
   <img src="barb-galler-smith-ann-marston.jpg" alt="Poster with a photograph of the two guest speakers, Ann Martson and Barb Galler-Smith, editors from On-Spec Magazine, on an orange background. The title of the event is 'From On-Spec Magazine, Ann Martson & Barb Galler-Smith Discuss Their Editing Process'. The event started at 4:00 P.M., on Thursday February 13th, 2020, in the Heritage Lounge, located within Athabasca Hall. The group's website is at thecrwuofa.wordpress.com, and can be found at @TheCrWUofA on Facebook, Twitter, and Instagram.">
