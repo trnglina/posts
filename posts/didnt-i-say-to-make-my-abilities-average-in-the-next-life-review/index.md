@@ -7,8 +7,6 @@ tags:
   - Anime
 ---
 
-_This review may contain minor spoilers._
-
 The thing with Noukin (the shortened Japanese name of this show that's a lot easier to write) is that it doesn't have a serious bone in its body. Not a single one. No matter what serious topic comes up, it'll top it off with some comedic relief and leave you feeling either uncomfortably unsatisfied, or, if you quickly came to like the characters like I did, with mixed feelings of genuine relief.
 
 <figure>
