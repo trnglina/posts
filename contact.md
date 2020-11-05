@@ -1,5 +1,6 @@
 ---
 {
+  'layout': 'page',
   'date': null,
   'title': 'Contact',
   'draft': false,

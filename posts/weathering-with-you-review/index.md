@@ -1,5 +1,6 @@
 ---
 {
+  'layout': 'prose',
   'date': '2020-01-16',
   'title': 'Review: Weathering With You',
   'draft': false,

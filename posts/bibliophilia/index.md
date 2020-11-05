@@ -1,5 +1,6 @@
 ---
 {
+  'layout': 'prose',
   'date': '2020-10-21',
   'title': 'Bibliophilia',
   'draft': true,
