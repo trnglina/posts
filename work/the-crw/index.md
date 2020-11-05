@@ -52,7 +52,7 @@ Starting in 2019, and progressing through 2020, the CrW produced a debut antholo
   </li>
   <li>
     <figure>
-      <img src="call-for-writers-square-fs8.png" alt="Square poster displaying the group's logo and the words 'Call for writers by the Creative Writing Club'.">
+      <img src="call-for-writers-square.png" alt="Square poster displaying the group's logo and the words 'Call for writers by the Creative Writing Club'.">
     </figure>
   </li>
 </ul>
