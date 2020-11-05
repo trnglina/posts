@@ -1,10 +1,11 @@
 ---
-date: 2019-12-30
-title: 'A Warm Place'
-draft: false
-thumbnail: ~
-tags:
-  - Fiction
+{
+  'date': '2019-12-30',
+  'title': 'A Warm Place',
+  'draft': false,
+  'thumbnail': null,
+  'tags': ['Fiction'],
+}
 ---
 
 I used to stare at the ceiling fan in my room before I went to sleep. Wrapped in a blanket, with the flickers and shimmers of a city at night behind me, I traced the shapes of fan blades above me. I could pick up a pencil, place it to the air in front of my eyes, and sketch out each stroke as I followed their edges. One, two. One, two.

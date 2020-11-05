@@ -1,9 +1,11 @@
 ---
-date: ~
-title: 'About'
-draft: false
-thumbnail: ~
-tags: ~
+{
+  'date': null,
+  'title': 'About',
+  'draft': false,
+  'thumbnail': null,
+  'tags': null,
+}
 ---
 
 Well, nice to meet you! My name is Teng, but I go by _trnglina_ online. I'm an undergraduate computing science student and amateur graphics/web designer. This is my little corner of the internet, where you'll find stuff I've written, and stuff I've made.

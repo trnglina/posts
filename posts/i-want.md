@@ -1,10 +1,11 @@
 ---
-date: 2019-12-22
-title: 'The Things I Want'
-draft: false
-thumbnail: ~
-tags:
-  - Non-fiction
+{
+  'date': '2019-12-22',
+  'title': 'The Things I Want',
+  'draft': false,
+  'thumbnail': null,
+  'tags': ['Non-fiction'],
+}
 ---
 
 It's not often I mention the things I want.

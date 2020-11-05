@@ -1,10 +1,11 @@
 ---
-date: 2020-01-16
-title: 'Review: Weathering With You'
-draft: false
-thumbnail: banner.jpg
-tags:
-  - Anime
+{
+  'date': '2020-01-16',
+  'title': 'Review: Weathering With You',
+  'draft': false,
+  'thumbnail': 'banner.jpg',
+  'tags': ['Anime'],
+}
 ---
 
 Weathering With You is an ultimate demonstration of director Shinkai Makoto's stellar directorial sense. The visuals, voice acting, music, and character writing are all spectacular. In terms of plot, the show occasionally rides the edge of disbelief, but if you let yourself get carried along by the film, you'll hardly notice it. Its brief meanderings near melodrama might put off the most cynical and critical viewers---but if you believe films should be enjoyed, Weathering with you makes it very easy.

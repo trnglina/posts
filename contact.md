@@ -1,9 +1,11 @@
 ---
-date: ~
-title: 'Contact'
-draft: false
-thumbnail: ~
-tags: ~
+{
+  'date': null,
+  'title': 'Contact',
+  'draft': false,
+  'thumbnail': null,
+  'tags': null,
+}
 ---
 
 I can be reached by email at [teng@trnglina.org](mailto:teng@trnglina.org). This is probably the fastest and most reliable way.

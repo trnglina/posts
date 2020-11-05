@@ -1,11 +1,11 @@
 ---
-date: 2019-12-09
-title: 'The CrW'
-draft: false
-page: false
-thumbnail: banner.png
-tags:
-  - Design
+{
+  'date': '2019-12-09',
+  'title': 'The CrW',
+  'draft': false,
+  'thumbnail': 'banner.png',
+  'tags': ['Design'],
+}
 ---
 
 The CrW is the University of Alberta's Creative Writing Club—a social group for creative writers in the university and city.

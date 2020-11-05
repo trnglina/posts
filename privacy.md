@@ -1,9 +1,11 @@
 ---
-date: ~
-title: 'Privacy'
-draft: false
-thumbnail: ~
-tags: ~
+{
+  'date': null,
+  'title': 'Privacy',
+  'draft': false,
+  'thumbnail': null,
+  'tags': null,
+}
 ---
 
 This site **does not** track you.
