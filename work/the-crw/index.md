@@ -9,7 +9,7 @@
 }
 ---
 
-<p class="intro_text">
+<p class="intro-text">
 The CrW is the University of Alberta's Creative Writing Club—a social group for creative writers in the university and city.
 </p>
 
