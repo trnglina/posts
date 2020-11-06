@@ -1,6 +1,6 @@
 ---
 {
-  'layout': 'prose',
+  'layout': 'default',
   'date': '2020-01-16',
   'title': 'Review: Weathering With You',
   'draft': false,
