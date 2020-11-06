@@ -15,7 +15,7 @@ The CrW is the University of Alberta's Creative Writing Club—a social group fo
 
 ## Guest Speaker Posters
 
-The CrW often invites prominent figures in the local writing community to speak about their experiences and answer questions. I have helped create a set of promotional posters for these speakers for use on social media.
+The CrW often invites figures from the local writing community to speak about their experiences and answer questions. I have helped worked alongside the Club's executive team to create a set of promotional social media posters for these events.
 
 <div class="gallery">
   <div class="gallery-row">
@@ -38,7 +38,7 @@ The CrW often invites prominent figures in the local writing community to speak 
 
 ## Anthology Project
 
-Starting in 2019, and progressing through 2020, the CrW produced a debut anthology featuring work by members of the club, and the greater university community. I played a role by creating posters for the purpose of recruiting editors and writers.
+Starting in 2019, and progressing through 2020, the CrW produced a debut anthology featuring work by members of the club, and the greater university community. In endeavour, I created physical and digital posters for the purpose of recruiting editors and writers.
 
 <div class="gallery">
   <div class="gallery-row">
