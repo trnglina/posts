@@ -5,7 +5,8 @@
   'title': 'Review: Weathering With You',
   'draft': false,
   'thumbnail': 'banner.jpg',
-  'accent': '#2b3d48',
+  'accentFg': '#afb6b5',
+  'accentBg': '#2b3d48',
   'tags': ['Anime'],
 }
 ---

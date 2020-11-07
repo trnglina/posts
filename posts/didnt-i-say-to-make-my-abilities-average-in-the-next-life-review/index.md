@@ -5,7 +5,8 @@
   'title': 'Review: Didn’t I Say to Make My Abilities Average in the Next Life?!',
   'draft': false,
   'thumbnail': 'banner.png',
-  'accent': '#516f90',
+  'accentFg': '#d9d1cb',
+  'accentBg': '#727493',
   'tags': ['Anime'],
 }
 ---
