@@ -1,6 +1,6 @@
 ---
 {
-  'layout': 'page',
+  'layout': 'prose',
   'date': null,
   'title': 'About',
   'draft': false,
