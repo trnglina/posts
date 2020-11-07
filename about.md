@@ -5,8 +5,8 @@
   'title': 'About',
   'draft': false,
   'thumbnail': null,
-  'accentFg': '#EAF27C',
-  'accentBg': '#2D3047',
+  'accentFg': null,
+  'accentBg': null,
   'tags': null,
 }
 ---

@@ -6,7 +6,7 @@
   'draft': false,
   'thumbnail': 'banner.png',
   'accentFg': '#d9d1cb',
-  'accentBg': '#727493',
+  'accentBg': '#4a4c6f',
   'tags': ['Anime'],
 }
 ---

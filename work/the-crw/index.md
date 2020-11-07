@@ -6,7 +6,7 @@
   'draft': false,
   'thumbnail': 'banner.png',
   'accentFg': '#f8f570',
-  'accentBg': '#b09266',
+  'accentBg': '#937952',
   'tags': ['Design'],
 }
 ---

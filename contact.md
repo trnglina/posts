@@ -5,8 +5,8 @@
   'title': 'Contact',
   'draft': false,
   'thumbnail': null,
-  'accentFg': '#EAF2E3',
-  'accentBg': '#E76F51',
+  'accentFg': null,
+  'accentBg': null,
   'tags': null,
 }
 ---
