@@ -5,6 +5,7 @@
   'title': 'Dear Ruth',
   'draft': false,
   'thumbnail': null,
+  'accent': '#7f304e',
   'tags': ['Fiction'],
 }
 ---

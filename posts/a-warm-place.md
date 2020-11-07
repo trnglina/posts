@@ -5,6 +5,7 @@
   'title': 'A Warm Place',
   'draft': false,
   'thumbnail': null,
+  'accent': '#8a2727',
   'tags': ['Fiction'],
 }
 ---

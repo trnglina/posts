@@ -5,6 +5,7 @@
   'title': 'The Things I Want',
   'draft': false,
   'thumbnail': null,
+  'accent': '#2a2525',
   'tags': ['Non-fiction'],
 }
 ---

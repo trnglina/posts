@@ -5,6 +5,7 @@
   'title': 'The CrW',
   'draft': false,
   'thumbnail': 'banner.png',
+  'accent': '#811e15',
   'tags': ['Design'],
 }
 ---
