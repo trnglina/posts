@@ -7,7 +7,7 @@
   "thumbnail": null,
   "accentFg": "#AEF3E7",
   "accentBg": "#7f304e",
-  "tags": ["Fiction"]
+  "tags": ["Creative", "Fiction"]
 }
 ---
 
