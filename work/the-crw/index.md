@@ -1,6 +1,6 @@
 ---
 {
-  "layout": "portfolio",
+  "kind": "post",
   "date": "2019-12-09",
   "title": "The CrW",
   "draft": false,
