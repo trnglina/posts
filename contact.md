@@ -1,13 +1,13 @@
 ---
 {
-  'layout': 'prose',
-  'date': null,
-  'title': 'Contact',
-  'draft': false,
-  'thumbnail': null,
-  'accentFg': null,
-  'accentBg': null,
-  'tags': null,
+  "layout": "prose",
+  "date": null,
+  "title": "Contact",
+  "draft": false,
+  "thumbnail": null,
+  "accentFg": null,
+  "accentBg": null,
+  "tags": null
 }
 ---
 

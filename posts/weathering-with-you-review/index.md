@@ -1,13 +1,13 @@
 ---
 {
-  'layout': 'prose',
-  'date': '2020-01-16',
-  'title': 'Review: Weathering With You',
-  'draft': false,
-  'thumbnail': 'banner.jpg',
-  'accentFg': '#c7dad8',
-  'accentBg': '#253640',
-  'tags': ['Anime'],
+  "layout": "prose",
+  "date": "2020-01-16",
+  "title": "Review: Weathering With You",
+  "draft": false,
+  "thumbnail": "banner.jpg",
+  "accentFg": "#c7dad8",
+  "accentBg": "#253640",
+  "tags": ["Anime"]
 }
 ---
 
