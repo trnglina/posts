@@ -25,7 +25,7 @@ The CrW often invites figures from the local writing community to speak about th
 <img src="jason-lee-norman.jpg" alt="Poster with a photograph of the guest speaker, Jason Lee Norman, on a blue background. The name of the speaker, and the title of the event, 'Experiences in Writing and Anthology Running', are overlaid on top." />
 </figure>
 <figure>
-<img src="barb-galler-smith-ann-marston.jpg" alt="Poster with a photograph of the two guest speakers, Ann Martson and Barb Galler-Smith, editors from On-Spec Magazine, on an orange background. The title of the event is 'From On-Spec Magazine, Ann Martson & Barb Galler-Smith Discuss Their Editing Process'." />
+<img src="barb-galler-smith-ann-marston.jpg" alt="Poster with a photograph of the two guest speakers, Ann Martson and Barb Galler-Smith, editors from On-Spec Magazine, on an orange background. The title of the event is 'From On-Spec Magazine, Ann Martson &amp; Barb Galler-Smith Discuss Their Editing Process'." />
 </figure>
 </div>
 <div class="gallery-row">
