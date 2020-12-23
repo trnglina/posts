@@ -40,7 +40,7 @@ The CrW often invites figures from the local writing community to speak about th
 
 ## Anthology Project
 
-Starting in 2019, and progressing through 2020, the CrW produced a debut anthology featuring work by members of the club, and the greater university community. In endeavour, I created physical and digital posters for the purpose of recruiting editors and writers.
+Starting in 2019, and progressing through 2020, the CrW produced a debut anthology featuring work by members of the club, and the greater university community. In this endeavour, I created physical and digital posters for the purpose of recruiting editors and writers.
 
 <div class="gallery">
 <div class="gallery-row">
