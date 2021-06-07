@@ -7,7 +7,7 @@
   "thumbnail": "banner.png",
   "accentFg": "#d9d1cb",
   "accentBg": "#4a4c6f",
-  "tags": ["Anime"]
+  "tags": ["Anime"],
 }
 ---
 

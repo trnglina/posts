@@ -7,7 +7,7 @@
   "thumbnail": "banner.jpg",
   "accentFg": "#c7dad8",
   "accentBg": "#253640",
-  "tags": ["Anime"]
+  "tags": ["Anime"],
 }
 ---
 
@@ -19,4 +19,4 @@ Weathering With You is an ultimate demonstration of director Shinkai Makoto's st
 
 Weathering With You is an optimistic tale, bursting with the flavours of youth. If you have the chance, see it. If it's no longer in cinemas where you are, wait for a physical or streaming release. It's good enough to warrant a little wait.
 
-_Stills and video content from the film are provided by GKIDS._
+Stills and video content from the film are provided by GKIDS.

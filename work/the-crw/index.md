@@ -7,7 +7,7 @@
   "thumbnail": "banner.png",
   "accentFg": "#f8f570",
   "accentBg": "#937952",
-  "tags": ["Design"]
+  "tags": ["Design"],
 }
 ---
 
