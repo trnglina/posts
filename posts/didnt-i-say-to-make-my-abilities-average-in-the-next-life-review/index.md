@@ -1,6 +1,5 @@
 ---
 {
-  "kind": "post",
   "date": "2020-01-05",
   "title": "Review: Didn’t I Say to Make My Abilities Average in the Next Life?!",
   "draft": false,

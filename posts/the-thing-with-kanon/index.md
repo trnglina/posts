@@ -1,6 +1,5 @@
 ---
 {
-  "kind": "post",
   "date": "2021-01-21",
   "title": "The Thing With Kanon",
   "draft": false,
