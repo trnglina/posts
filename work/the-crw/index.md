@@ -1,5 +1,6 @@
 ---
 {
+  "layout": "portfolio",
   "date": "2019-12-09",
   "title": "The CrW",
   "draft": false,
@@ -10,7 +11,7 @@
 }
 ---
 
-<p class="portfolio-intro-text">
+<p class="intro-text">
 The CrW is the University of Alberta's Creative Writing Club—a social group for creative writers in the university and city.
 </p>
 
@@ -18,8 +19,8 @@ The CrW is the University of Alberta's Creative Writing Club—a social group fo
 
 The CrW often invites figures from the local writing community to speak about their experiences and answer questions. I have helped worked alongside the Club's executive team to create a set of promotional social media posters for these events.
 
-<div class="portfolio-gallery">
-<div class="portfolio-gallery-row">
+<div class="gallery">
+<div class="gallery-row">
 <figure>
 <img src="jason-lee-norman.jpg" alt="Poster with a photograph of the guest speaker, Jason Lee Norman, on a blue background. The name of the speaker, and the title of the event, 'Experiences in Writing and Anthology Running', are overlaid on top." />
 </figure>
@@ -27,7 +28,7 @@ The CrW often invites figures from the local writing community to speak about th
 <img src="barb-galler-smith-ann-marston.jpg" alt="Poster with a photograph of the two guest speakers, Ann Martson and Barb Galler-Smith, editors from On-Spec Magazine, on an orange background. The title of the event is 'From On-Spec Magazine, Ann Martson &amp; Barb Galler-Smith Discuss Their Editing Process'." />
 </figure>
 </div>
-<div class="portfolio-gallery-row">
+<div class="gallery-row">
 <figure>
 <img src="jason-purcell.jpg" alt="Poster with a photograph of the guest speaker, Jason Purcell, on a peach background. The name of the speaker, and the title of the event, 'Poetry, Publishing, and the Creative Process', are overlaid on top." />
 </figure>
@@ -41,8 +42,8 @@ The CrW often invites figures from the local writing community to speak about th
 
 Starting in 2019, and progressing through 2020, the CrW produced a debut anthology featuring work by members of the club, and the greater university community. In this endeavour, I created physical and digital posters for the purpose of recruiting editors and writers.
 
-<div class="portfolio-gallery">
-<div class="portfolio-gallery-row">
+<div class="gallery">
+<div class="gallery-row">
 <figure>
 <img src="call-for-editors-square.jpg" alt="Square poster displaying the group's logo and the words 'Call for editors by the Creative Writing Club'." />
 </figure>
@@ -50,7 +51,7 @@ Starting in 2019, and progressing through 2020, the CrW produced a debut antholo
 <img src="call-for-writers-square.jpg" alt="Square poster displaying the group's logo and the words 'Call for writers by the Creative Writing Club'." />
 </figure>
 </div>
-<div class="portfolio-gallery-row">
+<div class="gallery-row">
 <figure>
 <img src="call-for-editors-full.jpg" alt="Print-size poster displaying the group's logo and the words 'Call for editors by the Creative Writing Club'." />
 </figure>
