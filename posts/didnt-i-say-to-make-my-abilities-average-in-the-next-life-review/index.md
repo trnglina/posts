@@ -3,7 +3,7 @@
   "date": "2020-01-05",
   "title": "Review: Didn’t I Say to Make My Abilities Average in the Next Life?!",
   "draft": false,
-  "thumbnail": "banner.png",
+  "banner": "banner.png",
   "accentFg": "#d9d1cb",
   "accentBg": "#4a4c6f",
   "tags": ["Anime"],

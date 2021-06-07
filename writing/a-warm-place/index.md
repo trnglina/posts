@@ -3,7 +3,7 @@
   "date": "2019-12-30",
   "title": "A Warm Place",
   "draft": false,
-  "thumbnail": null,
+  "banner": null,
   "accentFg": "#EAE2B7",
   "accentBg": "#8a2727",
   "tags": ["Fiction"],

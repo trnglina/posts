@@ -3,7 +3,7 @@
   "date": "2021-01-21",
   "title": "The Thing With Kanon",
   "draft": false,
-  "thumbnail": "banner.jpg",
+  "banner": "banner.jpg",
   "accentFg": "#f5e8e7",
   "accentBg": "#45454d",
   "tags": ["Anime"],

@@ -3,7 +3,7 @@
   "date": "2019-12-09",
   "title": "The CrW",
   "draft": false,
-  "thumbnail": "banner.png",
+  "banner": "banner.png",
   "accentFg": "#f8f570",
   "accentBg": "#937952",
   "tags": ["Design"],

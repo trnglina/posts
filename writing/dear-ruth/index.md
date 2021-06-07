@@ -3,7 +3,7 @@
   "date": "2020-11-05",
   "title": "Dear Ruth",
   "draft": false,
-  "thumbnail": null,
+  "banner": null,
   "accentFg": "#AEF3E7",
   "accentBg": "#7f304e",
   "tags": ["Fiction"],

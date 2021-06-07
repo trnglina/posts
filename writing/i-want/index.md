@@ -3,7 +3,7 @@
   "date": "2019-12-22",
   "title": "The Things I Want",
   "draft": false,
-  "thumbnail": null,
+  "banner": null,
   "accentFg": "#D36135",
   "accentBg": "#2a2525",
   "tags": ["Non-fiction"],
